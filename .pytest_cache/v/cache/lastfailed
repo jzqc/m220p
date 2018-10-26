@@ -1,0 +1,5 @@
+{
+  "tests/test_comments.py::test_fetch_comments_for_another_movie": true,
+  "tests/test_comments.py::test_fetch_comments_for_movie": true,
+  "tests/test_create_update_comments.py::test_add_comment": true
+}
